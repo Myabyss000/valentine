@@ -34,9 +34,6 @@ No server required – it's a pure client-side HTML file.
 - **Google Fonts**: Nunito font for typography.
 - **GIPHY**: Embedded GIFs for visual appeal.
 
-## 📱 Screenshots
-
-*(Add screenshots here if desired)*
 
 ## 🤝 Contributing
 
